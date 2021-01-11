@@ -1,2 +1,2 @@
 # SiteDoces
-Backend de um site de doces feito para treino.
+Front-end de um site de doces feito com Bootstrap e algumas personalizações com css para treino.
