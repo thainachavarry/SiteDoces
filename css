@@ -1,0 +1,55 @@
+* {
+  padding: 0;
+  margin: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+.btn-thata {
+  padding: 5px;
+  border-radius: 6px;
+  margin-top: 0px;
+  color: #05999F;
+  /* background-color: rgba(0,0,0,0); */
+  border-color: #05999F;
+  font-weight: 450;
+}
+
+.bg-pink {
+  background-color: pink;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-green {
+  background-color: green;
+}
+
+.group-thata {
+  display: grid;
+  /* flex-direction: column;
+  align-items: center; */
+  grid-template-columns: 3fr 2fr;
+ }
+
+.p-test {
+  /* display: flex; */
+  margin-left: 50px;
+  width: 100px;
+  height: 100px;
+  border: 5px solid black;
+  color: white;
+}
+
+.nova-classe {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.banner {
+  object-fit: cover;
+}
+
